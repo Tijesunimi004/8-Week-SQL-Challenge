@@ -25,7 +25,7 @@ You can inspect the entity relationship diagram and example data below.</font>
 
 <br><h2>Case Study Questions<h2>
 <font size = "+1.5">Each of the following case study questions can be answered using a single SQL statement:</font>
-<font size = "+0.2"><ol>
+<font size = "+0.05"><ol>
 <li>What is the total amount each customer spent at the restaurant?</li>
 <li>How many days has each customer visited the restaurant?</li>
 <li>What was the first item from the menu purchased by each customer?</li>
