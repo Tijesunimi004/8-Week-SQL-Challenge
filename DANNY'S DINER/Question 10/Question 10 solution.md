@@ -17,3 +17,6 @@ where month(sales.order_date) = 1 and day(sales.order_date) <= 31
 group by members.customer_id;
 ````
 <img src = "danny_10.png">
+
+<p>Customer A had 1520 points</p>
+<p>Customer B had 1240 points</p>

@@ -1,4 +1,4 @@
-<h1>Case Study #1 - Danny's Diner</h1>
+<h1>🍜Case Study #1 - Danny's Diner</h1>
 
 <img src = "https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Danny's Diner Logo" width="400" height="420">
 
@@ -26,14 +26,24 @@ You can inspect the entity relationship diagram and example data below.</font>
 <br><h2>Case Study Questions<h2>
 <font size = "+1.5">Each of the following case study questions can be answered using a single SQL statement:</font>
 <font size = "+0.05"><ol>
-<li>What is the total amount each customer spent at the restaurant?</li>
-<li>How many days has each customer visited the restaurant?</li>
-<li>What was the first item from the menu purchased by each customer?</li>
-<li>What is the most purchased item on the menu and how many times was it purchased by all customers?</li>
-<li>Which item was the most popular for each customer?</li>
-<li>Which item was purchased first by the customer after they became a member?</li>
-<li>Which item was purchased just before the customer became a member?</li>
-<li>What is the total items and amount spent for each member before they became a member?</li>
-<li>If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?</li>
-<li>In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - <br>how many points do customer A and B have at the end of January?</li>
+<li>What is the total amount each customer spent at the restaurant? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%201/question%201%20solution.md#solution-to-question-1">Solution to Question 1</a></li>
+
+<li>How many days has each customer visited the restaurant? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%202/question%202%20solution.md#solution-to-question-2">Solution to Question 2</a></li>
+
+<li>What was the first item from the menu purchased by each customer? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%203/question%203%20solution.md#question-3-solution">Solution to Question 3</a></li>
+
+<li>What is the most purchased item on the menu and how many times was it purchased by all customers? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%204/Question%204%20Solution.md#solution-to-question-4">Solution to Question 4</a></li>
+
+<li>Which item was the most popular for each customer? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%205/question%205%20solution.md#-solution-to-question-5">Solution to Question 5</a></li>
+
+<li>Which item was purchased first by the customer after they became a member? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%206/Question%206%20solution.md#solution-to-question-6">Solution to Question 6</a></li>
+
+<li>Which item was purchased just before the customer became a member? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%207/Question%207%20solution.md#solution-to-question-7">Solution to Question 7</a></li>
+
+<li>What is the total items and amount spent for each member before they became a member? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%208/Question%208%20solution.md#solution-to-question-8">Solution to Question 8</a></li>
+
+<li>If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%209/Question%209%20solution.md#solution-to-question-9">Solution to Question 9</a></li>
+
+<li>In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - <br>how many points do customer A and B have at the end of January? <a href = "https://github.com/Tijesunimi004/8-Week-SQL-Challenge/blob/main/DANNY'S%20DINER/Question%2010/Question%2010%20solution.md#solution-to-question-10">Solution to Question 10</a></li>
+
 </ol></font>
